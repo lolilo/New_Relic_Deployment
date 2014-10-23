@@ -9,7 +9,7 @@ A browser-based abstract syntax tree visualizer.
 D3.js, HTML, CSS. 
  * Set up PostgreSQL database using SQLAlchemy containing example input for visualizer.
 
-Deployed on Heroku: [http://visualispy.herokuapp.com/](http://visualispy.herokuapp.com/) (Database may take some time to "wake up" on Heroku's server.)
+Deployed on Heroku: [http://evening-crag-3833.herokuapp.com/](http://evening-crag-3833.herokuapp.com/) (Database may take some time to "wake up" on Heroku's server.)
 
 Contents
  - [Introduction](https://github.com/lolilo/lispy_web#introduction)
