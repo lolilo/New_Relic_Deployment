@@ -1,1 +1,1 @@
-web: gunicorn controller:app
+web: newrelic-admin run-program gunicorn controller:app

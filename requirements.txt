@@ -12,3 +12,4 @@ itsdangerous==0.24
 ply==3.4
 psycopg2==2.5.2
 wsgiref==0.1.2
+newrelic==2.34.0.29
